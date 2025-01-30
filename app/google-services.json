@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74911886580",
+    "project_id": "janachat-7ca87",
+    "storage_bucket": "janachat-7ca87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74911886580:android:5bba96f69e6f8a2ec0c2a1",
+        "android_client_info": {
+          "package_name": "com.example.janachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgMu0Rvaq9I5tMGG-EMS570JyEo8FNrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
